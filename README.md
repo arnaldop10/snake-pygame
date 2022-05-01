@@ -8,7 +8,9 @@ Thanks to [python-engineer](https://github.com/python-engineer)
 Tutorial on Youtube: [Link](https://www.youtube.com/watch?v=L8ypSXwyBds)
 
 Language: Python
+
 Version: 3.10
+
 Packages:
 - Pytorch
 - Matplotlib
